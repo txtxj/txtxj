@@ -33,4 +33,29 @@ This account is shared by Txtxj and LyeaChan.
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    54 commits     ██████░░░░░░░░░░░░░░░░░░░   23.79% 
+🌆 Daytime    67 commits     ███████░░░░░░░░░░░░░░░░░░   29.52% 
+🌃 Evening    64 commits     ███████░░░░░░░░░░░░░░░░░░   28.19% 
+🌙 Night      42 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.5%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
