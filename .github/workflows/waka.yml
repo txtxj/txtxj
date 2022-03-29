@@ -16,6 +16,7 @@ jobs:
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "auto 斯哈斯哈"
           SHOW_UPDATED_DATE: "True"
+          UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
