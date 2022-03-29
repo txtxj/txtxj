@@ -14,7 +14,7 @@ This account is shared by Txtxj and LyeaChan.
 #### languages
 
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
-![](https://img.shields.io/badge/python-3e74a2?logo=python&logoColor=fff)
+![](https://img.shields.io/badge/Python-3e74a2?logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)
 ![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=555)
 
