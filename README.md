@@ -22,9 +22,10 @@ This account is shared by Txtxj and LyeaChan.
 #### Tools
 
 ![](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=fff)
+![](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=000)
 ![](https://img.shields.io/badge/SublimeText_3-FF9800?logo=sublimetext&logoColor=fff)
-![](https://img.shields.io/badge/UE_4-0E1128?logo=unrealengine&logoColor=fff)
-![](https://img.shields.io/badge/unity-FFFFFF?logo=unity&logoColor=000)
+![](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=fff)
+
 
 #### Platforms
 
