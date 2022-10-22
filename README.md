@@ -7,7 +7,7 @@ This account is shared by Txtxj and LyeaChan.
 <img align="right" height="141" src="https://github-readme-stats.vercel.app/api?username=txtxj&theme=tokyonight&show_icons=true&count_private=true">
 
 - 🌱 I’m currently learning [Computer Graphics](https://github.com/txtxj/GAMES101) & [Rendering](https://github.com/txtxj/GAMES202) & Physics.
-- 🐶 I'm currently working on a indie game.
+- 🐶 I'm currently working on an indie game.
 - 💬 Ask me about anything [here](https://github.com/txtxj/txtxj/issues).
 - 🕊️ [Here](https://txtxj.top) is my blog.
 
