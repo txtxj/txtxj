@@ -15,13 +15,13 @@ Modeling.
 #### My Skills
 
 ![](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)
-![](https://img.shields.io/badge/Unity-ffffff?logo=unity&logoColor=000)
+![](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=fff)
 ![](https://img.shields.io/badge/Python-3e74a2?logo=python&logoColor=fff)
+![](https://img.shields.io/badge/C++-9f62a5?logo=cplusplus&logoColor=fff)
+![](https://img.shields.io/badge/C-a8b9cc?logo=c&logoColor=fff)
 ![](https://img.shields.io/badge/Blender-f5792a?logo=blender&logoColor=fff)
 ![](https://img.shields.io/badge/OpenJDK-ffffff?logo=openjdk&logoColor=000)
 ![](https://img.shields.io/badge/SQL-cc2927?logo=microsoftsqlserver&logoColor=fff)
-![](https://img.shields.io/badge/C++-9f62a5?logo=cplusplus&logoColor=fff)
-![](https://img.shields.io/badge/C-a8b9cc?logo=c&logoColor=fff)
 
 ---
 
