@@ -57,14 +57,13 @@ Sunday       131 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      36 mins             █████████████████████████   99.58% 
-ObjectiveC               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CClass                   36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -81,5 +80,5 @@ ShaderLab                2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-01-19 20:13:34 UTC
+ Last Updated on 2023-01-20 20:13:22 UTC
 <!--END_SECTION:waka-->
