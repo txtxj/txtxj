@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This account is shared by Txtxj and LyeaChan.
+I am txtxj, a current undergraduate student at the University of Science and Technology of China.
 
 ---
 
