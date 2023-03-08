@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am txtxj, a current undergraduate student at the University of Science and Technology of China.
+I am Txtxj/Citrine, a current undergraduate student at the University of Science and Technology of China.
 
 ---
 
