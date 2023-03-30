@@ -6,7 +6,7 @@ I am Citrine/Txtxj, a current undergraduate student at the University of Science
 
 <img align="right" height="141" src="https://github-readme-stats.vercel.app/api?username=txtxj&theme=tokyonight&show_icons=true&count_private=true">
 
-- 🌱 I'm currently learning Unity Editor & Modeling.
+- 🌱 I'm currently learning Unity Editor & Visual Effect Graph.
 - 🐶 I'm currently interning at Tencent/Morefun.
 - 💬 Ask me about anything [here](https://github.com/txtxj/txtxj/issues).
 - 🕊️ [Here](https://txtxj.top) is my blog.
