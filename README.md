@@ -25,7 +25,7 @@ I am Citrine/Txtxj, a current undergraduate student at the University of Science
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2015%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -88,5 +88,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2023-04-16 15:33:44 UTC
+ Last Updated on 2023-04-16 15:40:25 UTC
 <!--END_SECTION:waka-->
