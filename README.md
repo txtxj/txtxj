@@ -19,7 +19,6 @@ I am Citrine/Txtxj, a current undergraduate student at the University of Science
 ![](https://img.shields.io/badge/C++-65318e?logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/C-5654a2?logo=c&logoColor=fff)
 ![](https://img.shields.io/badge/Blender-f5792a?logo=blender&logoColor=fff)
-![](https://img.shields.io/badge/OpenJDK-ffffff?logo=openjdk&logoColor=000)
 ![](https://img.shields.io/badge/SQL-cc2927?logo=microsoftsqlserver&logoColor=fff)
 
 ---
