@@ -4,7 +4,7 @@ I am Citrine/Txtxj, a current undergraduate student at the University of Science
 
 ---
 
-<img align="right" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=txtxj&theme=vue">
+<img align="right" height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=txtxj&theme=vue">
 
 - 🌱 I'm currently learning Unity Editor & Visual Effect Graph.
 - 🐶 I'm currently interning at Tencent/Morefun.
