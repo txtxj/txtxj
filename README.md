@@ -24,7 +24,7 @@ I am Citrine/Txtxj, a current undergraduate student at the University of Science
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-861%20hrs%201%20min-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -43,5 +43,5 @@ PyCharm                  30 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 2023-05-09 03:00:43 UTC
+ Last Updated on 2023-05-09 20:10:30 UTC
 <!--END_SECTION:waka-->
