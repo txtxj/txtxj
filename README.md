@@ -29,12 +29,12 @@ I am CiTrine/Txtxj, a current undergraduate student at the University of Science
 
 ```text
 💬 Programming Languages: 
-C++                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2023-09-11 20:09:16 UTC
+ Last Updated on 2023-09-12 20:10:45 UTC
 <!--END_SECTION:waka-->
