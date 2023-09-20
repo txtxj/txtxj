@@ -23,18 +23,23 @@ I am CiTrine/Txtxj, a current undergraduate student at the University of Science
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C401%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C404%20hrs%2027%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 27 mins        █████████████░░░░░░░░░░░░   52.20 % 
+Python                   1 hr 4 mins         ██████████░░░░░░░░░░░░░░░   38.34 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Ezhil                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+CMake                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    1 hr 31 mins        ██████████████░░░░░░░░░░░   54.67 % 
+PyCharm                  1 hr 15 mins        ███████████░░░░░░░░░░░░░░   45.33 % 
 ```
 
 
- Last Updated on 2023-09-19 20:10:44 UTC
+ Last Updated on 2023-09-20 20:10:57 UTC
 <!--END_SECTION:waka-->
