@@ -29,13 +29,12 @@ I am CiTrine/Txtxj, a current undergraduate student at the University of Science
 
 ```text
 💬 Programming Languages: 
-Markdown                 21 mins             ██████████████████░░░░░░░   73.88 % 
-SSH Key                  7 mins              ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2023-10-05 20:10:50 UTC
+ Last Updated on 2023-10-06 20:10:29 UTC
 <!--END_SECTION:waka-->
