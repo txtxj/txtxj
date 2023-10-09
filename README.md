@@ -23,7 +23,7 @@ I am CiTrine/Txtxj, a current undergraduate student at the University of Science
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C426%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C344%20hrs%2049%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,5 +36,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 2023-10-08 20:09:52 UTC
+ Last Updated on 2023-10-09 20:09:34 UTC
 <!--END_SECTION:waka-->
