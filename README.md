@@ -6,7 +6,8 @@ I am CiTrine/Txtxj, a current undergraduate student at the University of Science
 
 <img align="right" height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=txtxj&theme=vue">
 
-- 🌱 I'm currently learning Math & Physics.
+- 🌱 I'm currently working on an indie game.
+- 🐶 I'm currently interning at iFLYTEK.
 - 💬 Ask me about anything [here](https://github.com/txtxj/txtxj/issues).
 - 🕊️ [Here](https://txtxj.top) is my blog.
 
