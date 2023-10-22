@@ -13,14 +13,13 @@ I am CiTrine/Txtxj, a current undergraduate student at the University of Science
 
 #### My Skills
 
-![](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)
 ![](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=fff)
+![](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)
 ![](https://img.shields.io/badge/Python-3e74a2?logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/C++-65318e?logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/C-5654a2?logo=c&logoColor=fff)
 ![](https://img.shields.io/badge/Blender-f5792a?logo=blender&logoColor=fff)
 ![](https://img.shields.io/badge/MS%20SQL-cc2927?logo=microsoftsqlserver&logoColor=fff)
-![](https://img.shields.io/badge/My%20SQL-4479a1?logo=mysql&logoColor=fff)
 ---
 
 <!--START_SECTION:waka-->
