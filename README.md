@@ -2,6 +2,8 @@
 
 I am CiTrine (aka txtxj), a current undergraduate student at the University of Science and Technology of China.
 
+If you're having trouble with my code, please start an issue instead of sending me an email so I don't miss it.
+
 ---
 
 <img align="right" height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=txtxj&theme=vue">
