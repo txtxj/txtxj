@@ -32,14 +32,12 @@ If you're having trouble with my code, please start an issue instead of sending 
 
 ```text
 💬 Programming Languages: 
-ObjectiveC               19 mins             ██████████████░░░░░░░░░░░   54.74 % 
-C                        10 mins             ████████░░░░░░░░░░░░░░░░░   31.28 % 
-Cuda                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2024-01-22 20:11:32 UTC
+ Last Updated on 2024-01-23 20:11:57 UTC
 <!--END_SECTION:waka-->
