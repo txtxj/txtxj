@@ -26,18 +26,20 @@ If you encounter any issues with my code, please create an issue instead of send
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C824%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C824%20hrs%2042%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+LaTeX source file        2 mins              ███████████████████████░░   93.69 % 
+TeX                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+BibTeX bibliography file 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    3 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2024-06-01 20:10:51 UTC
+ Last Updated on 2024-06-02 20:11:04 UTC
 <!--END_SECTION:waka-->
