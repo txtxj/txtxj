@@ -32,14 +32,12 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-LaTeX source file        2 mins              ███████████████████████░░   93.69 % 
-TeX                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-BibTeX bibliography file 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2024-06-08 20:10:46 UTC
+ Last Updated on 2024-06-09 20:12:18 UTC
 <!--END_SECTION:waka-->
