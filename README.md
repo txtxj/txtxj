@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am CiTrine (aka txtxj), a current undergraduate student at the University of Science and Technology of China.
+I am CiTrine (aka txtxj).
 
 If you encounter any issues with my code, please create an issue instead of sending me an email so that I can address it promptly.
 
