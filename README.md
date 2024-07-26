@@ -8,8 +8,8 @@ If you encounter any issues with my code, please create an issue instead of send
 
 <img align="right" height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=txtxj&theme=vue">
 
-- 🌱 I'm currently working on an indie game.
-- 😉 I'm taking my last free days of college.
+- 🌱 I'm currently working on a Metroidvania game.
+- 📖 I'm studying to be a Special Effects Engineer at a game company.
 - 💬 Ask me about anything [here](https://github.com/txtxj/txtxj/issues).
 - 🕊️ [Here](https://txtxj.top) is my blog.
 
