@@ -32,12 +32,12 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-C#                       4 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Jetbrainsrider           4 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2024-10-06 20:13:02 UTC
+ Last Updated on 2024-10-07 20:15:47 UTC
 <!--END_SECTION:waka-->
