@@ -26,18 +26,23 @@ If you encounter any issues with my code, please create an issue instead of send
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C079%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C083%20hrs%2031%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       4 hrs 12 mins       ███████████████████████░░   93.41 % 
+C++                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+UnityYaml                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Perl                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Jetbrainsrider           4 hrs 16 mins       ████████████████████████░   94.82 % 
+CLion                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 
 
- Last Updated on 2024-10-07 20:15:47 UTC
+ Last Updated on 2024-10-08 20:11:48 UTC
 <!--END_SECTION:waka-->
