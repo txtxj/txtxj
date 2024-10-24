@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am CiTrine (aka txtxj).
+I am Citrine (aka txtxj).
 
 If you encounter any issues with my code, please create an issue instead of sending me an email so that I can address it promptly.
 
