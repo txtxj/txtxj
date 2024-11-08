@@ -18,7 +18,6 @@ If you encounter any issues with my code, please create an issue instead of send
 ![](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)
 ![](https://img.shields.io/badge/Python-3e74a2?logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/C++-65318e?logo=cplusplus&logoColor=fff)
-![](https://img.shields.io/badge/C-5654a2?logo=c&logoColor=fff)
 ![](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=fff)
 ![](https://img.shields.io/badge/Blender-f5792a?logo=blender&logoColor=fff)
 ![](https://img.shields.io/badge/MS%20SQL-cc2927?logo=microsoftsqlserver&logoColor=fff)
