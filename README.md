@@ -8,9 +8,9 @@ If you encounter any issues with my code, please create an issue instead of send
 
 <img align="right" height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=txtxj&theme=vue">
 
-- 🌱 I'm currently working on a Metroidvania game.
-- 📖 I'm studying to be a Special Effects Engineer at a game company.
-- 💬 Ask me about anything [here](https://github.com/txtxj/txtxj/issues).
+- 🌱 I'm working on a casual card game
+- 📖 I'm learning about performance optimization and rendering pipelines
+- 💬 Ask me about anything via email or qq (if you can find it～(∠・ω< )⌒★)
 - 🕊️ [Here](https://txtxj.top) is my blog.
 
 #### My Skills
