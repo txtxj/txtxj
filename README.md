@@ -26,21 +26,6 @@ If you encounter any issues with my code, please create an issue instead of send
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C376%20hrs%2051%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-C#                       20 hrs 27 mins      ████████████████████░░░░░   79.67 % 
-Vue.js                   2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-TypeScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-
-🔥 Editors: 
-Jetbrainsrider           20 hrs 47 mins      ████████████████████░░░░░   80.97 % 
-WebStorm                 4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-```
-
-
- Last Updated on 2024-12-31 20:13:24 UTC
+ Last Updated on 2025-01-01 20:13:38 UTC
 <!--END_SECTION:waka-->
