@@ -30,14 +30,12 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-C#                       3 hrs 48 mins       ███████████████████████░░   93.93 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    3 hrs 48 mins       ███████████████████████░░   93.93 % 
-Sublime Text             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2026-02-19 20:26:32 UTC
+ Last Updated on 2026-02-20 20:25:03 UTC
 <!--END_SECTION:waka-->
