@@ -30,18 +30,18 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-C#                       24 hrs 6 mins       ████████████████████████░   97.95 % 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Unity3D Asset            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-UnityYaml                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+C#                       18 hrs 53 mins      ████████████████████████░   97.43 % 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Unity3D Asset            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+UnityYaml                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Rider                    24 hrs 10 mins      █████████████████████████   98.24 % 
-Sublime Text             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Rider                    18 hrs 57 mins      ████████████████████████░   97.80 % 
+Sublime Text             25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 2026-04-05 20:27:33 UTC
+ Last Updated on 2026-04-06 20:33:10 UTC
 <!--END_SECTION:waka-->
