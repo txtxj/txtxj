@@ -30,17 +30,17 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-C#                       16 hrs 13 mins      ████████████████████████░   94.95 % 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Unity3D Asset            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-UnityYaml                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+C#                       13 hrs 3 mins       ████████████████████████░   95.62 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+UnityYaml                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Rider                    16 hrs 19 mins      ████████████████████████░   95.54 % 
-Sublime Text             45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Rider                    13 hrs 5 mins       ████████████████████████░   95.86 % 
+Sublime Text             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 
 
- Last Updated on 2026-04-09 20:42:54 UTC
+ Last Updated on 2026-04-10 20:29:49 UTC
 <!--END_SECTION:waka-->
