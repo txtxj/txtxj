@@ -30,17 +30,16 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-C#                       13 hrs 3 mins       ████████████████████████░   95.62 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-UnityYaml                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+C#                       6 hrs 54 mins       █████████████████████████   98.65 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Rider                    13 hrs 5 mins       ████████████████████████░   95.86 % 
-Sublime Text             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Rider                    6 hrs 54 mins       █████████████████████████   98.65 % 
+Sublime Text             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 
- Last Updated on 2026-04-13 20:48:57 UTC
+ Last Updated on 2026-04-14 20:47:46 UTC
 <!--END_SECTION:waka-->
