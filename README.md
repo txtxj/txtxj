@@ -30,18 +30,18 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-C#                       11 hrs 47 mins      █████████████████████░░░░   82.70 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-ShaderLab                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-textmate                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+C#                       6 hrs 45 mins       ███████████████████░░░░░░   75.19 % 
+Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+ShaderLab                31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+textmate                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-Rider                    12 hrs 27 mins      ██████████████████████░░░   87.38 % 
-PyCharm                  1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Sublime Text             42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Rider                    7 hrs 16 mins       ████████████████████░░░░░   81.09 % 
+PyCharm                  1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Sublime Text             36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 ```
 
 
- Last Updated on 2026-05-04 21:03:16 UTC
+ Last Updated on 2026-05-05 20:57:38 UTC
 <!--END_SECTION:waka-->
