@@ -24,24 +24,23 @@ If you encounter any issues with my code, please create an issue instead of send
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C232%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C235%20hrs%2034%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       7 hrs 10 mins       ████████████████████░░░░░   78.87 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-ShaderLab                31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-textmate                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+C#                       7 hrs 10 mins       ██████████████████████░░░   86.77 % 
+Python                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+textmate                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Rider                    7 hrs 42 mins       █████████████████████░░░░   84.69 % 
-PyCharm                  1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Sublime Text             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Rider                    7 hrs 10 mins       ██████████████████████░░░   86.77 % 
+PyCharm                  1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 ```
 
 
- Last Updated on 2026-05-06 21:06:39 UTC
+ Last Updated on 2026-05-07 21:00:28 UTC
 <!--END_SECTION:waka-->
