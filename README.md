@@ -24,22 +24,6 @@ If you encounter any issues with my code, please create an issue instead of send
 ---
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-C#                       27 hrs 45 mins      ████████████████████░░░░░   80.98 % 
-Python                   3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-TOML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-XML                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-
-🔥 Editors: 
-Rider                    28 hrs 2 mins       ████████████████████░░░░░   81.81 % 
-PyCharm                  4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Sublime Text             1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-```
-
-
- Last Updated on 2026-05-22 21:04:38 UTC
+ Last Updated on 2026-05-23 20:42:44 UTC
 <!--END_SECTION:waka-->
