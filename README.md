@@ -30,18 +30,18 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-C#                       22 hrs 14 mins      ███████████████████████░░   91.89 % 
-Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-SSH Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+C#                       17 hrs 8 mins       ███████████████████████░░   91.78 % 
+Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Rider                    22 hrs 46 mins      ████████████████████████░   94.07 % 
-Sublime Text             1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Rider                    17 hrs 32 mins      ███████████████████████░░   93.91 % 
+Sublime Text             1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 
- Last Updated on 2026-06-14 21:05:36 UTC
+ Last Updated on 2026-06-15 22:14:21 UTC
 <!--END_SECTION:waka-->
