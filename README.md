@@ -24,23 +24,23 @@ If you encounter any issues with my code, please create an issue instead of send
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C458%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C462%20hrs%2016%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       30 hrs 41 mins      ████████████████████████░   97.59 % 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Unity3D Asset            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+C#                       27 hrs 27 mins      █████████████████████████   98.27 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Unity3D Asset            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Rider                    30 hrs 41 mins      ████████████████████████░   97.63 % 
-Sublime Text             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Rider                    27 hrs 28 mins      █████████████████████████   98.32 % 
+Sublime Text             28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 
 
- Last Updated on 2026-07-05 20:53:19 UTC
+ Last Updated on 2026-07-06 21:24:46 UTC
 <!--END_SECTION:waka-->
