@@ -24,26 +24,26 @@ If you encounter any issues with my code, please create an issue instead of send
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C485%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C492%20hrs%2037%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       24 hrs 42 mins      █████████████████████░░░░   84.26 % 
-Markdown                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Other                    1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+C#                       26 hrs 25 mins      █████████████████████░░░░   85.01 % 
+Markdown                 1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Other                    1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-Rider                    14 hrs 24 mins      ████████████░░░░░░░░░░░░░   49.13 % 
-VS Code                  7 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-Claude Code              6 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Rider                    13 hrs 42 mins      ███████████░░░░░░░░░░░░░░   44.12 % 
+VS Code                  12 hrs              ██████████░░░░░░░░░░░░░░░   38.62 % 
+Claude Code              5 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Sublime Text             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
- Last Updated on 2026-07-12 20:38:46 UTC
+ Last Updated on 2026-07-13 20:53:00 UTC
 <!--END_SECTION:waka-->
