@@ -24,49 +24,49 @@ If you encounter any issues with my code, please create an issue instead of send
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C529%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C531%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2021%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       18 hrs 42 mins      ██████████████████░░░░░░░   71.63 % 
-JSON                     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Python                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+C#                       15 hrs 16 mins      ██████████████████░░░░░░░   71.98 % 
+JSON                     3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 49 mins      █████████████░░░░░░░░░░░░   52.95 % 
-Rider                    11 hrs 29 mins      ███████████░░░░░░░░░░░░░░   43.98 % 
-Sublime Text             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+VS Code                  11 hrs 27 mins      █████████████░░░░░░░░░░░░   53.97 % 
+Rider                    8 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.38 % 
+Sublime Text             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 32 mins (86.33%)
+⏱ AI Coding Time: 17 hrs 31 mins (82.54%)
 
-✍️ 11,242 lines written by AI, 74 lines written by hand (99.35% AI-written)
+✍️ 5,885 lines written by AI, 62 lines written by hand (98.96% AI-written)
 
-🔤 2,989,788,388 Input Tokens, 10,590,573 Output Tokens
+🔤 696,008,910 Input Tokens, 1,969,042 Output Tokens
 
-💵 $4009.95 Estimated AI Cost This Week
+💵 $3530.54 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 248 AI Prompts
+🧠 40 AI Sessions, 213 AI Prompts
 
-GPT                      12,624 lines        █████████████████████████   100.00 % 
+GPT                      7,095 lines         █████████████████████████   100.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.35% of written lines came from AI
-📚 Verbose Prompter — average 5,257 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.09% of changed lines were hand-edited
+🤖 AI-Driven — 98.96% of written lines came from AI
+📚 Verbose Prompter — average 5,394 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-08-03 20:57:48 UTC
+ Last Updated on 2026-08-04 21:06:05 UTC
 <!--END_SECTION:waka-->
