@@ -32,41 +32,41 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-C#                       29 hrs 33 mins      ███████████████████████░░   93.47 % 
-Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-JSON                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Unity3D Asset            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-ShaderLab                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+C#                       24 hrs 19 mins      ███████████████████████░░   92.95 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Python                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Unity3D Asset            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+ShaderLab                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Codex Vscode             20 hrs 5 mins       ████████████████░░░░░░░░░   63.53 % 
-Rider                    11 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   36.19 % 
-Sublime Text             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Codex Vscode             17 hrs 10 mins      ████████████████░░░░░░░░░   65.62 % 
+Rider                    8 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.05 % 
+Sublime Text             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 5 mins (79.34%)
+⏱ AI Coding Time: 20 hrs 57 mins (80.1%)
 
-✍️ 15,637 lines written by AI, 1,580 lines written by hand (90.82% AI-written)
+✍️ 14,345 lines written by AI, 1,515 lines written by hand (90.45% AI-written)
 
-🔤 16,565,816 Input Tokens, 1,805,748 Output Tokens
+🔤 13,722,822 Input Tokens, 1,552,752 Output Tokens
 
-💵 $308.58 Estimated AI Cost This Week
+💵 $271.21 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 206 AI Prompts
+🧠 16 AI Sessions, 173 AI Prompts
 
-GPT                      17,391 lines        █████████████████████████   99.53 % 
-Codex-Vscode             83 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+GPT                      15,776 lines        █████████████████████████   99.48 % 
+Codex-Vscode             83 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.82% of written lines came from AI
-📄 Detailed Prompter — average 521 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 19.42% of changed lines were hand-edited
+🤖 AI-Driven — 90.45% of written lines came from AI
+📝 Concise Prompter — average 430 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 20.61% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-09-24 22:57:10 UTC
+ Last Updated on 2026-09-25 23:01:28 UTC
 <!--END_SECTION:waka-->
