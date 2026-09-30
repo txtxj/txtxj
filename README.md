@@ -32,40 +32,39 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-C#                       5 hrs 51 mins       █████████████████████░░░░   83.05 % 
-Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-ShaderLab                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Unity3D Asset            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+C#                       3 hrs 19 mins       ████████████████████░░░░░   79.40 % 
+Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+TOML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+UnityYaml                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-Rider                    3 hrs 55 mins       ██████████████░░░░░░░░░░░   55.54 % 
-Codex Vscode             3 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.50 % 
-Sublime Text             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Codex Vscode             2 hrs 15 mins       █████████████░░░░░░░░░░░░   53.77 % 
+Rider                    1 hr 51 mins        ███████████░░░░░░░░░░░░░░   44.60 % 
+Sublime Text             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 27 mins (48.95%)
+⏱ AI Coding Time: 2 hrs 21 mins (56.39%)
 
-✍️ 1,757 lines written by AI, 1,490 lines written by hand (54.11% AI-written)
+✍️ 1,622 lines written by AI, 1,490 lines written by hand (52.12% AI-written)
 
-🔤 2,206,701 Input Tokens, 187,671 Output Tokens
+🔤 1,478,612 Input Tokens, 141,002 Output Tokens
 
-💵 $28.10 Estimated AI Cost This Week
+💵 $19.92 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 37 AI Prompts
+🧠 8 AI Sessions, 30 AI Prompts
 
-GPT                      1,786 lines         █████████████████████████   100.00 % 
+GPT                      1,636 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 54.11% of written lines came from AI
-📄 Detailed Prompter — average 503 characters per prompt
+⚖️ Balanced with AI — 52.12% of written lines came from AI
+📄 Detailed Prompter — average 599 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 69.22% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 71.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-09-29 23:22:44 UTC
+ Last Updated on 2026-09-30 23:24:04 UTC
 <!--END_SECTION:waka-->
