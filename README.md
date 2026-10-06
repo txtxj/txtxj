@@ -32,38 +32,38 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-C#                       57 mins             █████████████░░░░░░░░░░░░   53.13 % 
-Other                    31 mins             ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-TOML                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Other                    20 mins             █████████████░░░░░░░░░░░░   51.94 % 
+TOML                     19 mins             ████████████░░░░░░░░░░░░░   47.63 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 21 mins        ███████████████████░░░░░░   75.11 % 
-Rider                    22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Sublime Text             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Codex Vscode             35 mins             ██████████████████████░░░   89.33 % 
+Sublime Text             4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 23 mins (77.08%)
+⏱ AI Coding Time: 37 mins (94.04%)
 
-✍️ 130 lines written by AI, 226 lines written by hand (36.52% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 870,721 Input Tokens, 53,304 Output Tokens
+🔤 68,680 Input Tokens, 904 Output Tokens
 
-💵 $7.44 Estimated AI Cost This Week
+💵 $0.14 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 19 AI Prompts
+🧠 3 AI Sessions, 12 AI Prompts
 
-GPT                      130 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.52% of written lines came from AI
-📄 Detailed Prompter — average 881 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 64.29% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 1,284 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-10-04 22:40:15 UTC
+ Last Updated on 2026-10-06 01:04:44 UTC
 <!--END_SECTION:waka-->
