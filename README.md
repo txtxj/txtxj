@@ -24,50 +24,50 @@ If you encounter any issues with my code, please create an issue instead of send
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C787%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C790%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-298%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       12 hrs 39 mins      ██████████████░░░░░░░░░░░   54.70 % 
-Python                   2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Markdown                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Other                    1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+C#                       11 hrs 18 mins      █████████████░░░░░░░░░░░░   52.56 % 
+Python                   2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+JSON                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 🔥 Editors: 
-Rider                    13 hrs 48 mins      ███████████████░░░░░░░░░░   59.64 % 
-PyCharm                  4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Pycharm                  3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Sublime Text             1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Jetbrainsrider           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Rider                    15 hrs 3 mins       █████████████████░░░░░░░░   69.91 % 
+Pycharm                  2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+PyCharm                  2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Sublime Text             1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Jetbrainsrider           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 16 mins (74.62%)
+⏱ AI Coding Time: 15 hrs 51 mins (73.65%)
 
-✍️ 12,571 lines written by AI, 4,535 lines written by hand (73.49% AI-written)
+✍️ 9,407 lines written by AI, 4,446 lines written by hand (67.91% AI-written)
 
-🔤 38,251,011 Input Tokens, 4,708,600 Output Tokens
+🔤 12,237,772 Input Tokens, 1,131,994 Output Tokens
 
-💵 $345.38 Estimated AI Cost This Week
+💵 $117.89 Estimated AI Cost This Week
 
-🧠 85 AI Sessions, 200 AI Prompts
+🧠 71 AI Sessions, 177 AI Prompts
 
-GPT                      12,648 lines        █████████████████████████   100.00 % 
+GPT                      9,660 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.49% of written lines came from AI
-📚 Verbose Prompter — average 1,579 characters per prompt
+🤖 AI-Driven — 67.91% of written lines came from AI
+📄 Detailed Prompter — average 1,314 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 40.17% of changed lines were hand-edited
+🚀 High AI Trust — 46.52% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-10-27 23:25:37 UTC
+ Last Updated on 2026-10-28 23:49:38 UTC
 <!--END_SECTION:waka-->
