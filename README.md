@@ -32,42 +32,42 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-C#                       11 hrs 18 mins      █████████████░░░░░░░░░░░░   52.56 % 
-Python                   2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-JSON                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+C#                       8 hrs 15 mins       ███████████████░░░░░░░░░░   60.05 % 
+JSON                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Text                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Python                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 Editors: 
-Rider                    15 hrs 3 mins       █████████████████░░░░░░░░   69.91 % 
-Pycharm                  2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-PyCharm                  2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Sublime Text             1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Jetbrainsrider           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Rider                    9 hrs 30 mins       █████████████████░░░░░░░░   69.14 % 
+Pycharm                  1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Sublime Text             1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+PyCharm                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Jetbrainsrider           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 51 mins (73.65%)
+⏱ AI Coding Time: 8 hrs 26 mins (61.39%)
 
-✍️ 9,407 lines written by AI, 4,446 lines written by hand (67.91% AI-written)
+✍️ 4,384 lines written by AI, 4,431 lines written by hand (49.73% AI-written)
 
-🔤 12,237,772 Input Tokens, 1,131,994 Output Tokens
+🔤 4,837,160 Input Tokens, 435,593 Output Tokens
 
-💵 $117.89 Estimated AI Cost This Week
+💵 $74.38 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 177 AI Prompts
+🧠 43 AI Sessions, 96 AI Prompts
 
-GPT                      9,660 lines         █████████████████████████   100.00 % 
+GPT                      4,624 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.91% of written lines came from AI
-📄 Detailed Prompter — average 1,314 characters per prompt
+⚖️ Balanced with AI — 49.73% of written lines came from AI
+📚 Verbose Prompter — average 1,619 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 46.52% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 64.46% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-10-28 23:49:38 UTC
+ Last Updated on 2026-10-29 23:45:18 UTC
 <!--END_SECTION:waka-->
