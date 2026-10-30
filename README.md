@@ -24,50 +24,50 @@ If you encounter any issues with my code, please create an issue instead of send
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C790%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C791%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-302%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       8 hrs 15 mins       ███████████████░░░░░░░░░░   60.05 % 
-JSON                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Text                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Python                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+C#                       7 hrs 26 mins       ██████████████░░░░░░░░░░░   56.42 % 
+JSON                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Text                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 
 🔥 Editors: 
-Rider                    9 hrs 30 mins       █████████████████░░░░░░░░   69.14 % 
-Pycharm                  1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Sublime Text             1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-PyCharm                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Jetbrainsrider           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Rider                    8 hrs 24 mins       ████████████████░░░░░░░░░   63.69 % 
+Sublime Text             2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Pycharm                  1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+PyCharm                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Jetbrainsrider           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 26 mins (61.39%)
+⏱ AI Coding Time: 8 hrs 12 mins (62.12%)
 
-✍️ 4,384 lines written by AI, 4,431 lines written by hand (49.73% AI-written)
+✍️ 5,152 lines written by AI, 4,424 lines written by hand (53.8% AI-written)
 
-🔤 4,837,160 Input Tokens, 435,593 Output Tokens
+🔤 3,856,966 Input Tokens, 410,738 Output Tokens
 
-💵 $74.38 Estimated AI Cost This Week
+💵 $109.31 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 96 AI Prompts
+🧠 50 AI Sessions, 103 AI Prompts
 
-GPT                      4,624 lines         █████████████████████████   100.00 % 
+GPT                      5,684 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.73% of written lines came from AI
-📚 Verbose Prompter — average 1,619 characters per prompt
+⚖️ Balanced with AI — 53.8% of written lines came from AI
+📚 Verbose Prompter — average 1,515 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 64.46% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 59.58% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-10-29 23:45:18 UTC
+ Last Updated on 2026-10-30 23:25:58 UTC
 <!--END_SECTION:waka-->
