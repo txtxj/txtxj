@@ -32,42 +32,40 @@ If you encounter any issues with my code, please create an issue instead of send
 
 ```text
 💬 Programming Languages: 
-C#                       7 hrs 26 mins       ██████████████░░░░░░░░░░░   56.42 % 
-JSON                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Text                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+C#                       6 hrs 59 mins       ████████████████░░░░░░░░░   64.65 % 
+JSON                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+UnityYaml                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-Rider                    8 hrs 24 mins       ████████████████░░░░░░░░░   63.69 % 
-Sublime Text             2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Pycharm                  1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-PyCharm                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Jetbrainsrider           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Rider                    8 hrs 24 mins       ███████████████████░░░░░░   77.71 % 
+Sublime Text             2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Jetbrainsrider           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 12 mins (62.12%)
+⏱ AI Coding Time: 5 hrs 49 mins (53.78%)
 
-✍️ 5,152 lines written by AI, 4,424 lines written by hand (53.8% AI-written)
+✍️ 1,855 lines written by AI, 4,424 lines written by hand (29.54% AI-written)
 
-🔤 3,856,966 Input Tokens, 410,738 Output Tokens
+🔤 3,168,377 Input Tokens, 271,652 Output Tokens
 
-💵 $109.31 Estimated AI Cost This Week
+💵 $89.30 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 103 AI Prompts
+🧠 37 AI Sessions, 85 AI Prompts
 
-GPT                      5,684 lines         █████████████████████████   100.00 % 
+GPT                      2,369 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.8% of written lines came from AI
-📚 Verbose Prompter — average 1,515 characters per prompt
+🧑‍💻 Mostly Hands-On — 29.54% of written lines came from AI
+📄 Detailed Prompter — average 1,229 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 59.58% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 77.96% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-10-30 23:25:58 UTC
+ Last Updated on 2026-10-31 22:58:59 UTC
 <!--END_SECTION:waka-->
